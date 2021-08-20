@@ -10,5 +10,5 @@
     <br>
     - Bluetooth HC-06 module
     - Bluetooth protocol
-    - Infrared Red sensors
+    - Infra-Red sensors
     - nircmd software (PC func control through cmd)
